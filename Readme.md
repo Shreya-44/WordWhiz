@@ -37,3 +37,12 @@ The WordWhiz game is deployed on the **Mantle Sepolia Testnet**. It is designed 
 ## Get Started
 
 To play the game, connect your wallet to the **Mantle Sepolia Testnet**, stake **0.1 MEMECOINS**, and start guessing words.  
+
+## Screenshots
+<img width="1440" alt="Screenshot 2024-12-17 at 8 03 22 PM" src="https://github.com/user-attachments/assets/a30a03fb-13e3-4dd4-a67d-5fcfa35cddb5" />
+
+![Screenshot 2024-12-18 at 3 00 44 PM](https://github.com/user-attachments/assets/9900b6e6-3e05-4592-b0bf-884fb925de95)
+
+
+
+
