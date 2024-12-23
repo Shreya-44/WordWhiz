@@ -13,7 +13,7 @@ The game is powered by Solidity smart contracts and utilizes the Mantle Sepolia 
 
 ## Contract Details
 
-- **Contract Address**: `0x6A369B07b0e3b7dd228C932CEed8CD0fa51d5c42` [View on Explorer](https://sepolia.mantlescan.xyz/address/0x6A369B07b0e3b7dd228C932CEed8CD0fa51d5c42)
+- **Contract Address**: `0x5Ae63116c3a6Dd20fc6Dd5587d0fe4dCa70E3fdd` [View on Explorer](https://sepolia.mantlescan.xyz/address/0x5Ae63116c3a6Dd20fc6Dd5587d0fe4dCa70E3fdd)
 - **Network**: Mantle Sepolia Testnet
 - **Coin Used**: MNT
 
