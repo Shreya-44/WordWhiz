@@ -601,7 +601,7 @@ async function getHint() {
 
 // Check the guess
 async function guessWord(guess) {
-	const reward = 0.1e18;
+	const reward = 50e18;
     const correctWord = words[currentWordIndex].word.toLowerCase();
     if (guess.toLowerCase() === correctWord) {
         try {
